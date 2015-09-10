@@ -1,0 +1,980 @@
+/**************************************************************************
+
+ Default CSS
+---------------------------------------------------------------
+
+ ZUKD
+ Zepter und Krone GmbH
+ Digital Unit
+
+ V/2012
+
+***************************************************************************/
+/*
+
+webfonts:
+
+font-family:'Felbridge W01 Bold';
+font-family:'Felbridge W01 Light';
+font-family:'Avenir LT W02 35 Light';
+font-family:'Avenir LT W02 95 Black';
+
+*/
+/* basics */
+
+body {
+  -webkit-text-size-adjust: 100%;
+  background: #000 url("../images/pattern_02.png") repeat fixed 0 0;
+  color: #5d5b58;
+  line-height: 24px;
+  font-family: 'Avenir LT W02 35 Light', sans-serif;
+  font-weight: normal;
+  font-size: 13px;
+  overflow-x: hidden;
+  text-rendering: optimizeLegibility;
+}
+
+a:focus,
+a:link,
+a:visited {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #333;
+}
+
+acronym,
+abbr {
+  border-bottom: 0;
+  cursor: help;
+}
+
+address {
+  display: inline;
+}
+
+acronym,
+abbr {
+  border-bottom: 0;
+  cursor: help;
+}
+
+address {
+  display: inline;
+}
+/* quotes */
+
+blockquote p {
+  margin: 0 0 24px;
+}
+
+blockquote p:before {
+  content: "\00BB";
+}
+
+blockquote p:after {
+  content: "\00AB";
+}
+
+q {
+  quotes: "\00BB" "\00AB";
+}
+
+blockquote q,
+q q {
+  quotes: "\203A" "\2039";
+}
+
+hr,
+img.lazy {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer !important;
+}
+/* setting this to 'display:none' could hide it from screenreaders, too, which is not intended */
+
+.accessible {
+  display: block !important;
+  left: -999em !important;
+  position: absolute !important;
+}
+
+.majuscules {
+  font-size: 97%;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+/*
+ * alerts
+ *
+ */
+
+.alert-success {
+  color: #1a0;
+}
+
+.alert-error {
+  color: #b21;
+}
+/*
+ * a.more
+ *
+ */
+
+a.more {
+  color: #818182;
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  line-height: inherit;
+  text-transform: uppercase;
+}
+/*
+ * .btn
+ *
+ */
+
+.btn {
+  background-color: #397ad8;
+  border: 0 solid #397ad8;
+  border-radius: 4px;
+  color: #fff !important;
+  cursor: pointer;
+  display: inline-block;
+  font-family: 'Avenir LT W02 35 Light', sans-serif;
+  font-size: 13px;
+  font-weight: 300;
+  height: 24px;
+  line-height: 24px;
+  min-width: 110px;
+  padding: 0 5px 0 5px;
+  text-align: left;
+}
+
+.btn:hover {
+  background-color: #124896 !important;
+}
+
+.btn.close:before {}
+
+.btn.next:before {
+  content: "→";
+  float: right;
+}
+
+.btn.back {
+  text-align: right;
+}
+
+.btn.back:before {
+  content: "←";
+  float: left;
+}
+
+.btn.secondary {
+  background: transparent;
+  border: 1px solid #818182;
+  color: #818182 !important;
+  height: 22px;
+  line-height: 22px;
+  padding: 0 4px;
+}
+/*
+ * CONTAINER + WRAPPER
+ *
+ */
+
+.default-layout .container_24 {
+  position: relative;
+}
+/*
+ * header
+ *
+ */
+
+.default-layout header h1 a {
+  background: url('../images/DVI_logo.svg') no-repeat left top;
+  background-size: 100%;
+  display: block;
+  height: 35px;
+  overflow: hidden;
+  text-indent: -999em;
+  width: 140px;
+}
+
+.default-layout header nav .primary a {
+  border-bottom: 1px solid #bbb;
+  color: #5d5b58;
+  font-size: 14px;
+  font-family: 'Avenir LT W02 95 Black', sans-serif;
+  line-height: 30px;
+  padding: 0 0 2px;
+}
+
+.default-layout header nav .secondary a {
+  font-size: 11px;
+}
+
+.default-layout header nav .tertiary .residential,
+.default-layout header nav .tertiary .commercial,
+.default-layout header nav .tertiary .development {
+  font-family: "Avenir LT W02 95 Black", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.default-layout header nav a:hover {
+  color: #397ad8;
+}
+
+#ms-home-index header nav .home a,
+#ms-home-dvi header nav .dvi a,
+#ms-contact-index header nav .contact a,
+#ms-home-about header nav .about-us a,
+#ms-home-funds header nav .funds a,
+#ms-home-profiles header nav .profiles a {
+  cursor: default;
+  color: #b2b2b2;
+}
+
+.default-layout header nav button.toggle {
+  background: transparent;
+  border: 0;
+  color: #5d5b58;
+  display: none;
+  font-family: 'Avenir LT W02 35 Light', sans-serif;
+  font-size: 12px;
+  height: 25px;
+  left: 3%;
+  letter-spacing: 0.1em;
+  padding: 0 0 0 22px;
+  position: absolute;
+  text-transform: uppercase;
+}
+
+.default-layout header nav button.toggle:after,
+.default-layout header nav button.toggle:before {
+  border: 1px solid #5d5b58;
+  content: '';
+  left: 0;
+  position: absolute;
+  transition: all 0.5s ease;
+  width: 16px;
+  outline
+}
+
+.default-layout header nav button.toggle:after {
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
+  height: 0px;
+  top: 12px;
+}
+
+.default-layout header nav button.toggle:before {
+  border-left: 0;
+  border-right: 0;
+  height: 7px;
+  top: 8px;
+}
+
+@media only screen and (max-width: 64.062em) {
+  .default-layout header h1 {
+    margin-right: 2px;
+    text-align: right;
+  }
+  .default-layout header h1 a {
+    color: rgba(0, 0, 0, 0);
+    display: inline-block;
+  }
+  .default-layout header nav {
+    margin-left: 0;
+    margin-top: -36px;
+  }
+  .default-layout header nav li {
+    display: inline;
+    margin-right: 15px;
+  }
+}
+
+@media only screen and (max-width: 670px) {
+  .default-layout header {
+    height: 20px;
+    padding: 1.5em 3%;
+  }
+  .default-layout header h1 a {
+    height: 24px;
+    width: 100px;
+  }
+  .default-layout header nav {
+    margin: -35px 0 0 55px;
+    transition: background 0.5s ease;
+  }
+  .default-layout header .primary,
+  .default-layout header .secondary {
+    display: none;
+  }
+  .default-layout header nav button.toggle {
+    display: block;
+  }
+  .default-layout header nav.overlay {
+    background: #5d5b59 none repeat scroll 0 0;
+    bottom: 0;
+    display: block;
+    height: 100%;
+    margin: 0;
+    overflow-y: scroll;
+    padding: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+  }
+  .default-layout header nav.overlay ul {
+    padding: 90px 3% 0;
+  }
+  .default-layout header nav.overlay li {
+    display: block;
+    margin: 0 0 1em;
+  }
+  .default-layout header nav.overlay .primary a,
+  .default-layout header nav.overlay .secondary a {
+    border: none;
+    color: #f5f5f5;
+    display: block;
+    font-size: 18px;
+    line-height: 1.2;
+    margin: 0;
+    padding: 0;
+  }
+  .default-layout header nav.overlay button.toggle {
+    color: #fff;
+    height: 30px;
+    overflow: hidden;
+    text-indent: -999em;
+    top: 1.5em;
+    width: 30px;
+  }
+  .default-layout header nav.overlay button.toggle:before,
+  .default-layout header nav.overlay button.toggle:after {
+    border-color: #fff;
+    top: 17px;
+    transition: all 0.5s ease;
+    width: 29px;
+  }
+  .default-layout header nav.overlay button.toggle:before {
+    border-bottom: 0;
+    transform: rotate(-45deg);
+  }
+  .default-layout header nav.overlay button.toggle:after {
+    transform: rotate(45deg);
+  }
+}
+
+@media only screen and (min-width: 671px) and (max-width: 64.062em) {
+  .default-layout header {
+    padding: 40px 0 30px 40px;
+    width: 630px;
+  }
+  .default-layout header nav li.secondary.home:before {
+    content: "";
+    display: block;
+    height: 0;
+    width: 0;
+  }
+  .default-layout header nav .primary a {
+    font-size: 1.2em;
+  }
+  .default-layout header nav .secondary a {
+    font-size: 1em;
+    line-height: 3.5em;
+  }
+}
+
+@media only screen and (min-width: 64.063em) {
+  .default-layout header {
+    padding: 53px 20px 20px 82px;
+    position: fixed;
+    width: 180px;
+  }
+  .default-layout header nav {
+    margin-top: 60px;
+    padding-left: 24px;
+  }
+  .default-layout header nav .development {
+    margin-bottom: 20px;
+  }
+}
+/*
+ * .default-layout #main
+ *
+ */
+
+.default-layout #main {}
+
+.default-layout #main .boxed {
+  background-color: #f8f8f8;
+  padding: 12px 3% 20px;
+}
+
+.default-layout #main .title {
+  color: #5d5b58;
+  font-size: 19px;
+  font-family: 'Avenir LT W02 95 Black', sans-serif;
+  font-weight: normal;
+  letter-spacing: 0.05em;
+  line-height: 1.2em;
+  margin: 0.4em 0;
+  text-transform: uppercase;
+}
+
+.default-layout #main section {
+  display: inline;
+}
+
+.default-layout #main section > .title,
+.default-layout #main > .title {
+  margin-top: 132px;
+}
+
+.default-layout #main p.txt {
+  font-size: 15px;
+  line-height: 1.7;
+  margin-bottom: 24px;
+}
+
+.default-layout #main p.intro {
+  color: #777;
+  font-size: 20px;
+}
+
+@media only screen and (max-width: 28.062em) {
+  .default-layout #main p.txt {
+    font-size: 15px;
+  }
+  .default-layout #main p.intro {
+    font-size: 21px;
+  }
+}
+
+@media only screen and (min-width: 671px) {
+  #main {
+    width: 670px;
+  }
+  .default-layout #main .boxed {
+    padding: 20px 40px 40px;
+  }
+  .default-layout #main .title {
+    font-size: 30px;
+    line-height: 1.2;
+  }
+}
+
+@media only screen and (min-width: 64.063em) {
+  #main {
+    margin-left: 280px;
+  }
+  .default-layout #main .title {
+    font-size: 38px;
+    line-height: 1.2;
+    margin: 27px 0 0.6em;
+  }
+}
+/*
+ * footer
+ *
+ */
+
+.default-layout footer {
+  background-color: #f5f5f5;
+  clear: both;
+  color: #818182;
+  font-size: 10px;
+  line-height: 12px;
+  margin-top: 30px;
+}
+
+.default-layout footer #footer_wrapper {
+  background-color: #f8f8f8;
+  padding: 30px 0px 80px 3%;
+}
+
+.default-layout footer a {
+  color: #818182;
+}
+
+.default-layout footer a:hover {}
+
+.default-layout footer .vcard {
+  display: inline;
+  float: left;
+  width: 230px;
+}
+
+.default-layout footer .vcard .fn {
+  font-family: 'Avenir LT W02 95 Black', sans-serif;
+  font-weight: normal;
+}
+
+.default-layout footer .vcard .tel {
+  display: block;
+}
+
+@media only screen and (min-width: 671px) {
+  footer {
+    width: 670px;
+  }
+  .default-layout footer #footer_wrapper {
+    padding-left: 40px;
+  }
+}
+
+@media only screen and (min-width: 64.063em) {
+  footer {
+    margin-left: 280px;
+  }
+}
+  /*
+ * #main .vcard
+ *
+ */
+  #main .vcard {
+    font-size: 12px;
+    line-height: 24px;
+    margin-bottom: 1em;
+  }
+  #main .vcard a {
+    text-decoration: none;
+  }
+  #main .vcard .fn {
+    color: #666;
+  }
+  #main .vcard .adr .street-address {
+    display: block !important;
+  }
+  #main .vcard .tel {
+    display: block !important;
+  }
+  #main .vcard .tel .type {
+    display: none;
+  }
+/*
+ * form.default
+ *
+ */
+
+form.default {}
+
+form.default .h {
+  overflow: hidden;
+  position: absolute;
+  left: -999em;
+}
+
+form.default fieldset {
+  margin-bottom: 24px;
+  padding-bottom: 24px;
+}
+
+form.default label {
+  display: block;
+  font-size: 12px;
+  line-height: 24px;
+}
+
+form.default input.txt,
+form.default textarea {
+  background-color: #fff;
+  border: 0;
+  color: #818182;
+  font-family: 'Avenir LT W02 35 Light', sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  margin: 0 0 6px;
+  padding: 0 4px;
+}
+
+form.default input.txt {
+  height: 24px;
+}
+
+form.default input.name {}
+
+form.default input.email {}
+
+form.default input.phone {}
+
+form.default textarea {}
+
+@media only screen and (max-width: 670px) {
+  /**Kontakt Form**/
+
+  form.default input.txt,
+  form.default textarea,
+  form.default input.txt,
+  form.default textarea {
+    padding: 0 3%;
+    width: 94%;
+  }
+}
+
+@media only screen and (max-width: 670px) {
+  /**Kontakt Form**/
+
+  form.default input.txt,
+  form.default textarea,
+  form.default input.txt,
+  form.default textarea {
+    padding: 0 3%;
+    width: 94%;
+  }
+}
+/* ul.default */
+
+ul.default {
+  border-top: 1px solid #818182;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+ul.default li {
+  border-bottom: 1px solid #818182;
+  padding: 6px 0;
+  width: 100%;
+}
+/* table.default */
+
+table.default {
+  border-top: 1px solid #818182;
+  width: 100%;
+}
+
+table.default caption {}
+
+table.default a {
+  text-decoration: none;
+}
+
+table.default tr {
+  border-bottom: 1px solid #818182;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+table.default th,
+table.default td {
+  vertical-align: top;
+  padding: 6px 0;
+}
+
+table.default th {
+  font-family: 'Avenir LT W02 95 Black', sans-serif;
+}
+
+table.default tr.clickable:hover {
+  background-color: #818182;
+  color: #fff !important;
+}
+
+table.default tr.clickable:hover a {
+  color: #fff !important;
+}
+
+table.default tr.active {
+  /* color:#fff;*/
+}
+/*
+ * #main .view-options
+ *
+ */
+
+  #main .view-options {
+    display: block;
+    margin: 20px 0 20px;
+  }
+  #main .view-options .list-view,
+  #main .view-options .photo-view,
+  #main .view-options .map-view {
+    background: url('../images/view_types.png') no-repeat 0 0;
+    display: block;
+    float: right;
+    height: 16px;
+    overflow: hidden;
+    text-indent: -999em;
+    width: 16px;
+  }
+  #main .view-options .photo-view {
+    background-position: -40px 0;
+  }
+  #main .view-options .list-view {
+    background-position: 0px 0;
+    border-left: 1px dotted #818182;
+    margin: 0 0 0 8px;
+    padding: 0 0 0 8px;
+  }
+  #main .view-options .map-view {
+    background-position: -64px 0;
+    border-left: 1px dotted #818182;
+    margin: 0 0 0 8px;
+    padding: 0 0 0 8px;
+  }
+  #main .view-options .photo-view.selected {
+    background-position: -40px -16px;
+  }
+  #main .view-options .list-view.selected {
+    background-position: 0px -16px;
+  }
+  #main .view-options .map-view.selected {
+    background-position: -64px -16px;
+  }
+
+/* #properties */
+
+
+/* properties: photo-view */
+
+.default-layout ul.properties {
+  display: block;
+  margin-left: -5px;
+  margin-right: -5px;
+  padding: 0 3%;
+  text-align: left;
+}
+
+.default-layout ul.properties li {
+  display: inline-block;
+  text-align: left;
+}
+
+.default-layout ul.properties li a {
+  color: #818182;
+  display: block;
+  height: 219px;
+  overflow: hidden;
+  padding: 5px 5px 0;
+  text-decoration: none;
+  width: 190px;
+}
+
+.default-layout ul.properties li a:hover {
+  background-color: #222;
+  color: #eee;
+}
+
+.default-layout ul.properties img,
+.default-layout ul.properties .missing-image {
+  display: block;
+  height: 160px;
+  margin: 0 0 12px;
+  width: 190px;
+}
+
+.default-layout ul.properties img.lazy {
+  background-color: #bbb;
+}
+
+.default-layout ul.properties .missing-image {
+  background-color: #818182;
+}
+
+.default-layout ul.properties li .caption {
+  display: block;
+  font-size: 10px;
+  line-height: 12px;
+}
+
+.default-layout ul.properties li strong.caption {
+  color: #666;
+  font-weight: 700;
+}
+
+.default-layout ul.properties li a:hover strong.caption {
+  color: inherit;
+}
+/* properties: table view */
+
+.default-layout table.properties {
+  min-width: 100%;
+}
+
+.default-layout table.properties th {
+  font-family: 'Avenir LT W02 35 Light', sans-serif;
+  padding-left: 32px;
+  padding-right: 15px;
+}
+
+.default-layout table.properties td.zip {
+  text-align: right;
+}
+
+.default-layout table.properties td.city {
+  text-align: right;
+  padding-left: 5px;
+}
+
+.default-layout table.properties td.flag {}
+
+.default-layout table.properties td.flag abbr {
+  color: #b2b2b2;
+  display: block;
+  font-family: 'Avenir LT W02 35 Light', sans-serif;
+  text-align: center;
+}
+
+  @media only screen and (max-width: 670px) {
+    .default-layout ul.properties li a {
+      height: 230px;
+    }
+    .default-layout ul.properties li .caption {
+      font-size: 12px;
+      line-height: 1.3;
+    }
+  }
+  @media only screen and (max-width: 28.062em) {
+    .default-layout ul.properties li {
+      width: 100%;
+    }
+    .default-layout ul.properties li a {
+      height: auto;
+      margin-bottom: 2em;
+      padding-bottom: 1em;
+      width: 97%;
+    }
+    .default-layout ul.properties img,
+    .default-layout ul.properties .missing-image {
+      height: auto;
+      width: 100%;
+    }
+    .default-layout ul.properties li .caption {
+      font-size: 14px;
+    }
+  }
+@media only screen and (min-width: 671px) {
+    .default-layout ul.properties {
+      padding: 0;
+    }
+    .default-layout ul.properties li {
+      float: left;
+    }
+  }
+
+  @media only screen and (max-width: 670px) {
+    .default-layout table.properties td.city {
+      padding-right: 1em;
+    }
+    .default-layout table.properties td.flag abbr {
+      padding-left: 1em;
+    }
+  }
+/*
+ * status code
+ *
+ */
+
+.status-code {
+  color: #666;
+  font-size: 13px;
+  font-family: 'Avenir LT W02 95 Black', sans-serif;
+  line-height: 24px;
+}
+/*
+ * #main #map_canvas
+ *
+ */
+
+#main #map_canvas {
+  border: 8px solid #fff;
+  margin: 0 0 24px;
+  overflow: hidden;
+}
+
+#main #map_credits {
+  color: #444;
+  font-size: 10px;
+  line-height: 14px;
+  margin: -14px 0 0;
+}
+/**
+#main #properties
+**/
+  #main #properties {
+    background-color: #f8f8f8;
+    float: left;
+    margin-top: -40px;
+    min-width: 100%;
+  }
+
+@media only screen and (min-width: 671px) {
+  #main #properties {
+    min-width: 0;
+    padding: 0 40px 2em;
+    width: 590px;
+  }
+}
+/*
+ * properties-show
+ *
+ */
+
+  #ms-properties-show #main a.photo,
+  #ms-properties-show #main a.photo img {
+    display: block;
+  }
+  #ms-properties-show #main .thumbnails {
+    background: #f8f8f8;
+    padding: 2em 1em 1em;
+  }
+  #ms-properties-show #main .thumbnails li {
+    display: inline-block;
+    margin: 0 3px 0 0;
+  }
+  #ms-properties-show #main .thumbnails a {
+    border: 2px solid #818182;
+    display: block;
+  }
+  #ms-properties-show #main .thumbnails li:first-child a {
+    border-color: #fff;
+  }
+  #ms-properties-show #main .thumbnails img {
+    display: block;
+  }
+  #ms-properties-show .boxed a.btn {}
+  #ms-properties-show table.data {
+    margin-top: 32px;
+  }
+  #ms-properties-show table.data th {}
+  #ms-properties-show #main .abstract {}
+  #ms-properties-show #main .abstract p {
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 24px;
+  }
+  #ms-properties-show #map_canvas {
+    margin: 48px 0 24px;
+  }
+  @media only screen and (max-width: 670px) {
+    #map_canvas {
+      width: 96% !important;
+    }
+  }
+  @media only screen and (min-width: 671px) {
+    #ms-properties-show #main .thumbnails {
+      background: rgba(0, 0, 0, 0.2);
+      height: 72px;
+      margin: -84px 0 0 0;
+      padding: 12px 40px 0 40px;
+      position: absolute;
+      width: 590px;
+    }
+  }
+  @media only screen and (max-width: 670px) {
+    #main .view-options {
+      margin: 3em 0 2em;
+      padding-right: 1em;
+    }
+  }

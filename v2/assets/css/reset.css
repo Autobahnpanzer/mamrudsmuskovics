@@ -1,0 +1,26 @@
+/**************************************************************************
+
+ CSS /Reset
+---------------------------------------------------------------
+
+ ZUKD
+ Zepter und Krone GmbH
+ Digital Unit
+
+ I/2011
+
+***************************************************************************/
+
+/* reset everything */
+
+*{margin:0;padding:0}
+fieldset,img{border:0}
+table{border-collapse:collapse;border-spacing:0}
+ol,ul{list-style:none}
+caption,th{text-align:left}
+h1,h2,h3,h4,h5,h6{font-size:100%}
+address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal}
+q,blockquote .quote{ }
+q:before,blockquote .quote:before{content:open-quote}
+q:after,blockquote .quote:after{content:close-quote}
+:focus{outline:0}

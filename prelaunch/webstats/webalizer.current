@@ -1,0 +1,1122 @@
+# Webalizer V2.23-05 Incremental Data - 06/04/2015 19:55:15
+2015 6 4 19 55 15
+2291 1758 102 194 47 70 15304220 1159 131 1
+26 41 548 1 4
+1353 917 1729056 27 755 27
+345 336 8239006 37 107 38
+388 307 4016372 29 206 28
+205 198 1319786 26 91 38
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+37 36 356964 6
+5 5 20781 5
+9 9 25239 3
+5 5 31444 5
+5 5 9060 3
+8 8 13886 4
+13 12 34652 7
+0 0 0 0
+19 19 58538 13
+104 98 1553872 39
+33 33 77157 19
+73 72 309980 51
+613 293 1500996 139
+285 239 5908806 165
+264 221 706228 156
+202 198 676069 142
+170 170 343981 141
+211 190 2655479 122
+47 44 445226 9
+47 40 173752 27
+77 2 89568 76
+11 9 27670 3
+36 36 219956 17
+17 14 64916 7
+0
+0
+0
+1758
+0
+0
+0
+0
+0
+0
+0
+19
+4
+0
+422
+0
+0
+0
+2
+0
+2
+84
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/webmail/plugins/contextmenu/contextmenu.js
+0 24 0 3885 0 0
+/webmail/skins/default/images/abook_toolbar.png
+0 2 0 32790 0 0
+/webmail/program/blank.gif
+0 1 0 56 0 0
+/assets/cache/1330220430_3_32x32.jpg
+0 1 0 1142 0 0
+/webmail/program/blocked.gif
+0 1 0 118 0 0
+/webmail/plugins/template_objects/skins/default/template_objects.css
+0 24 0 475 0 0
+/objekt/hauptstrasse-10827-berlin
+0 3 0 8637 1 0
+/webmail/plugins/contextmenu/jquery.contextMenu.js
+0 24 0 2874 0 0
+/webmail/skins/default/images/listheader.gif
+0 2 0 644 0 0
+/webmail/plugins/compose_newwindow/composenewwindow.js
+0 25 0 3002 0 0
+/webmail/arpw2.gif
+0 2 0 11474 0 0
+/sitemap.xml
+0 2 0 946 0 0
+/objekt/koloniestrasse-13357-berlin
+0 3 0 8942 1 1
+/assets/cache/falkenberger_02_32x32.jpg
+0 1 0 1294 0 0
+/fotos/sophie-charlotten-strasse-14059-berlin
+0 1 0 1600 0 0
+/assets/cache/1330218897_1_790x500.jpg
+0 1 0 162850 0 0
+/fotos/hauptstrasse-10827-berlin
+0 2 0 2976 1 0
+/assets/images/msg_02.png
+0 39 0 99182 0 0
+/assets/cache/20130122233232.css
+0 42 0 160135 0 0
+/assets/cache/hotel_lindemanns_03_190x160.jpg
+0 12 0 125468 0 0
+/assets/cache/berlinerstr_01_790x500.jpg
+0 3 0 381528 0 0
+/webmail/plugins/compose_newwindow/skins/default/compose.css
+0 2 0 213 0 0
+/fotos/berliner-strasse-13507-berlin
+0 3 0 4301 0 0
+/objekte/entwicklung
+0 17 0 42034 3 1
+/webmail/
+0 698 0 365884 1 0
+/assets/cache/1330218897_4_32x32.jpg
+0 1 0 1082 0 0
+/assets/cache/1330221570_7_32x32.jpg
+0 1 0 1264 0 0
+/assets/db/berlinerstr_02.jpg
+0 1 0 644223 0 0
+/assets/cache/1330221570_2_190x160.jpg
+0 19 0 252249 0 0
+/webmail/skins/default/images/buttons/bg.gif
+0 2 0 394 0 0
+/assets/images/markers/circle_i_64x64.png
+0 9 0 7795 0 0
+/fotos/kanalstrasse-12357-berlin
+0 1 0 1504 0 0
+/webmail/skins/default/images/icons/folders.png
+0 2 0 9542 0 0
+/assets/cache/1330221570_8_32x32.jpg
+0 1 0 1316 0 0
+/assets/images/arrows_01.png
+0 3 0 1241 0 0
+/webmail/skins/default/images/icons/glass_roll.png
+0 1 0 544 0 0
+/webmail/program/js/app.js
+0 25 0 55388 0 0
+/impressum
+0 28 0 63162 11 1
+/webmail/program/js/tiny_mce/tiny_mce.js
+0 2 0 67116 0 0
+/assets/db/1330220430_4.jpg
+0 1 0 1323070 0 0
+/webmail/skins/default/images/favicon.ico
+0 2 0 2300 0 0
+/assets/cache/1329948590_5_32x32.jpg
+0 1 0 1191 0 0
+/assets/cache/20121207142950.js
+0 40 0 353043 0 0
+/assets/cache/1330221805_1_32x32.jpg
+0 1 0 1385 0 0
+/fotos/friedrichsfelde-10315-berlin
+0 1 0 1573 0 0
+/webmail/skins/default/images/display/loading_blue.gif
+0 1 0 847 0 0
+/assets/cache/1357310248_1_32x32.jpg
+0 1 0 1332 0 0
+/fotos/strasse-43-13125-berlin
+0 2 0 3020 0 0
+/webmail/skins/default/images/taskbar.png
+0 1 0 2425 0 0
+/fotos/curtiusstrasse-12205-berlin
+0 1 0 1484 0 0
+/assets/cache/1330218897_2_32x32.jpg
+0 1 0 1036 0 0
+/assets/cache/1357310747_1_32x32.jpg
+0 1 0 1259 0 0
+/assets/cache/1330220430_1_190x160.jpg
+0 13 0 127504 0 0
+/kontakt
+0 20 0 43653 3 3
+/webcontrol-scripts/showmail.pl
+0 3 0 8452 0 0
+/webmail/skins/default/images/roundcube_logo.png
+0 2 0 13588 0 0
+/assets/cache/1330221148_1_32x32.jpg
+0 2 0 2506 0 0
+/webmail/skins/default/images/mail_toolbar.png
+0 2 0 75142 0 0
+/webmail/skins/default/images/pagenav.gif
+0 2 0 714 0 0
+/assets/cache/falkenberger_06_32x32.jpg
+0 1 0 1158 0 0
+/fotos/potsdamer-strasse-10783-berlin
+0 2 0 9972 1 0
+/webmail/plugins/contextmenu/jquery.mousewheel.js
+0 24 0 594 0 0
+/assets/images/pattern_01.png
+0 39 0 3055 0 0
+/assets/cache/1330221805_6_32x32.jpg
+0 1 0 1249 0 0
+/assets/cache/1330221805_5_32x32.jpg
+0 1 0 1171 0 0
+/webmail/skins/default/images/icons/reset.gif
+0 2 0 328 0 0
+/assets/cache/1330220789_1_790x500.jpg
+0 3 0 308531 0 0
+/favicon.ico
+0 28 0 30149 0 0
+/fotos/turmstrasse-10555-berlin
+0 2 0 5344 1 1
+/fotos/stendaler-strasse-12627-berlin
+0 1 0 1562 0 0
+/webmail/plugins/contextmenu/skins/default/contextmenu.css
+0 17 0 1198 0 0
+/webmail/plugins/forwardattachment/skins/default/forwardattachment.css
+0 17 0 198 0 0
+/webmail/plugins/compose_addressbook/compose_addressbook.js
+0 2 0 2057 0 0
+/assets/cache/1330221805_1_190x160.jpg
+0 20 0 351956 0 0
+/assets/images/blank.gif
+0 28 0 29185 0 0
+/objekt/falkenberg-13057-berlin
+0 3 0 8029 1 0
+/webmail/skins/default/images/display/icons.png
+0 1 0 4246 0 0
+/ueber-uns
+0 43 0 117795 13 3
+/webmail/skins/default/images/taskicons.gif
+0 2 0 3464 0 0
+/webmail/program/js/list.js
+0 12 0 5018 0 0
+/webmail/skins/default/images/icons/delete.png
+0 1 0 841 0 0
+/webmail/skins/default/splitter.js
+0 19 0 1791 0 0
+/assets/db/1330220430_1.jpg
+0 1 0 732391 0 0
+/webmail/plugins/compose_newwindow/closewindow.js
+0 23 0 1184 0 0
+/webmail/plugins/compose_addressbook/skins/default/compose_addressbook.png
+0 1 0 4142 0 0
+/objekt/potsdamer-strasse-10783-berlin
+0 3 0 8537 1 2
+/webmail/plugins/compose_addressbook/skins/default/compose_addressbook.css
+0 2 0 511 0 0
+/assets/cache/falkenberger_05_32x32.jpg
+0 1 0 1289 0 0
+/assets/cache/1330221148_2_32x32.jpg
+0 2 0 2240 0 0
+/assets/db/1330220430_3.jpg
+0 1 0 1575692 0 0
+/assets/cache/1330221805_2_32x32.jpg
+0 1 0 1281 0 0
+/assets/cache/berlinerstr_01_32x32.jpg
+0 3 0 3447 0 0
+/objekt/curtiusstrasse-12205-berlin
+0 2 0 5670 1 1
+/assets/cache/1330220789_1_32x32.jpg
+0 3 0 3256 0 0
+/assets/cache/1330221805_3_32x32.jpg
+0 1 0 1234 0 0
+/assets/cache/falkenberger_06_190x160.jpg
+0 20 0 226700 0 0
+/assets/cache/1330221148_1_190x160.jpg
+0 17 0 260535 0 0
+/objekt/turmstrasse-10555-berlin
+0 9 0 30586 2 1
+/fonds
+0 13 0 29631 1 0
+/assets/cache/falkenberger_01_32x32.jpg
+0 1 0 1262 0 0
+/fotos/falkenberg-13057-berlin
+0 2 0 3018 0 0
+/webmail/skins/default/images/watermark.gif
+0 2 0 20474 0 0
+/assets/js/jquery-1.7.1.min.js
+0 1 0 33140 0 0
+/assets/cache/berlinerstr_03_32x32.jpg
+0 3 0 3451 0 0
+/assets/cache/1330220430_1_32x32.jpg
+0 1 0 1154 0 0
+/assets/db/berlinerstr_01.jpg
+0 1 0 576585 0 0
+/objekt/friedrichsfelde-10315-berlin
+0 2 0 5388 1 0
+/assets/db/berlinerstr_03.jpg
+0 1 0 604907 0 0
+/webmail/plugins/template_objects/skins/default/images/icons/moveto.png
+0 1 0 2037 0 0
+/webmail/skins/default/images/mail_footer.png
+0 2 0 2054 0 0
+/assets/images/view_types.png
+0 29 0 7006 0 0
+/webmail/plugins/template_objects/template_objects.js
+0 10 0 349 0 0
+/assets/cache/friedrichsfelde_09_190x160.jpg
+0 21 0 230308 0 0
+/assets/cache/berlinerstr_02_32x32.jpg
+0 3 0 3357 0 0
+/webmail/skins/default/watermark.html
+0 1 0 388 0 0
+/webmail/skins/default/images/icons/forwarded.png
+0 1 0 315 0 0
+/webmail/skins/default/common.css
+0 25 0 6490 0 0
+/webmail/plugins/jqueryui/js/jquery-ui-1.8.14.custom.min.js
+0 25 0 105680 0 0
+/webmail/skins/default/functions.js
+0 19 0 5558 0 0
+/assets/cache/1330221570_3_32x32.jpg
+0 1 0 1211 0 0
+/objekt/berliner-strasse-13507-berlin
+0 9 0 24509 2 1
+/assets/cache/1330221570_4_32x32.jpg
+0 1 0 1303 0 0
+/webmail/plugins/forwardattachment/forwardattachment.js
+0 17 0 607 0 0
+/assets/cache/falkenberger_06_790x500.jpg
+0 1 0 112950 0 0
+/assets/cache/
+0 1 0 0 0 0
+/objekte/gewerbe
+0 25 0 67608 0 1
+/assets/cache/1330221805_4_32x32.jpg
+0 1 0 1250 0 0
+/assets/cache/1330221570_6_32x32.jpg
+0 1 0 1262 0 0
+/assets/cache/1330220789_3_32x32.jpg
+0 3 0 3452 0 0
+/objekte/wohnen
+0 22 0 79665 2 2
+/webmail/program/js/common.js
+0 25 0 7498 0 0
+/webmail/plugins/forwardattachment/skins/default/mail_toolbar.gif
+0 1 0 2143 0 0
+/webmail/plugins/jqueryui/themes/default/images/ui-bg_flat_75_ffffff_40x100.png
+0 1 0 178 0 0
+/webmail/skins/default/images/searchfield.gif
+0 2 0 672 0 0
+/webmail/skins/default/images/display/loading.gif
+0 2 0 5884 0 0
+/objekt/strasse-43-13125-berlin
+0 5 0 14468 3 1
+/objekt/sophie-charlotten-strasse-14059-berlin
+0 4 0 11238 3 2
+/assets/cache/1330220789_1_190x160.jpg
+0 11 0 115963 0 0
+/assets/cache/berlinerstr_01_190x160.jpg
+0 21 0 278752 0 0
+/assets/cache/1330218897_1_190x160.jpg
+0 18 0 314713 0 0
+/assets/cache/1330220430_1_790x500.jpg
+0 1 0 69579 0 0
+/assets/cache/1330218897_5_32x32.jpg
+0 1 0 947 0 0
+/webmail/skins/default/images/messageicons.png
+0 2 0 4708 0 0
+/webmail/skins/default/images/dbutton.png
+0 1 0 240 0 0
+/assets/cache/1351113064_1_190x160.jpg
+0 18 0 246848 0 0
+/assets/db/1330220430_2.jpg
+0 1 0 1488779 0 0
+/webmail/skins/default/images/dimple.png
+0 1 0 174 0 0
+/assets/cache/1330220430_2_32x32.jpg
+0 1 0 1107 0 0
+/webmail/skins/default/mail.css
+0 21 0 4020 0 0
+/
+0 85 0 426219 61 11
+/webmail/skins/default/googiespell.css
+0 2 0 546 0 0
+/webmail/plugins/contextmenu/skins/default/messageactions.png
+0 1 0 2578 0 0
+/assets/cache/1357310840_1_32x32.jpg
+0 1 0 1216 0 0
+/objekt/luetzelsteiner-weg-14195-berlin
+0 4 0 11757 1 1
+/webcontrol/ex.php
+0 4 0 672 0 0
+/objekt/kanalstrasse-12357-berlin
+0 2 0 5133 1 1
+/webmail/skins/default/images/icons/attachment.png
+0 1 0 657 0 0
+/assets/cache/1330218897_1_32x32.jpg
+0 1 0 1182 0 0
+/objekt/stendaler-strasse-12627-berlin
+0 2 0 5178 0 1
+/webmail/plugins/jqueryui/themes/default/jquery-ui-1.8.14.custom.css
+0 28 0 12504 0 0
+/webmail/skins/default/images/icons/glass.png
+0 1 0 433 0 0
+/assets/cache/1330220430_4_32x32.jpg
+0 1 0 1121 0 0
+/assets/cache/1329948590_1_190x160.jpg
+0 12 0 110060 0 0
+/assets/db/falkenberger_06.jpg
+0 1 0 563148 0 0
+/assets/cache/1330221148_3_32x32.jpg
+0 2 0 2644 0 0
+/assets/cache/1330221570_2_32x32.jpg
+0 1 0 1246 0 0
+/assets/cache/1330221148_1_790x500.jpg
+0 2 0 295568 0 0
+/assets/cache/falkenberger_08_32x32.jpg
+0 1 0 1195 0 0
+/webmail/plugins/vcard_attachments/vcardattach.js
+0 10 0 409 0 0
+/assets/cache/falkenberger_07_32x32.jpg
+0 1 0 1242 0 0
+/assets/images/spinner_01.gif
+0 3 0 9024 0 0
+/robots.txt
+0 21 0 4689 0 0
+/webmail/skins/default/images/icons/silhouette.png
+0 1 0 255 0 0
+/assets/cache/1330221570_2_790x500.jpg
+0 1 0 154636 0 0
+/webmail/skins/default/images/messageactions.png
+0 1 0 2607 0 0
+/webmail/skins/default/images/icons/sort.gif
+0 1 0 148 0 0
+/webmail/skins/default/images/icons/down_small.gif
+0 1 0 106 0 0
+/webmail/program/js/editor.js
+0 2 0 1822 0 0
+/dvi
+0 35 0 70739 10 0
+/objekt/karl-marx-strasse-12043-berlin
+0 5 0 14692 3 1
+/assets/cache/kanalstr_01_190x160.jpg
+0 20 0 209775 0 0
+/fotos/koloniestrasse-13357-berlin
+0 1 0 1586 0 0
+/webmail/plugins/template_objects/skins/default/images/icons/filter.png
+0 1 0 367 0 0
+/webmail/skins/default/images/icons/minus.gif
+0 1 0 82 0 0
+/assets/cache/1330221570_5_32x32.jpg
+0 1 0 1252 0 0
+/webmail/program/js/jquery.min.js
+0 26 0 96186 0 0
+/webmail/skins/default/images/icons/groupactions.png
+0 2 0 990 0 0
+/assets/cache/1330221805_1_790x500.jpg
+0 1 0 227506 0 0
+/assets/cache/hellersdorf_02_190x160.jpg
+0 15 0 198630 0 0
+/webmail/plugins/contextmenu/skins/default/contexticons.png
+0 1 0 4261 0 0
+/fotos/karl-marx-strasse-12043-berlin
+0 1 0 1482 0 0
+/fotos/luetzelsteiner-weg-14195-berlin
+0 1 0 1591 0 0
+/webmail/plugins/contextmenu/skins/default/folders.png
+0 1 0 4771 0 0
+/assets/cache/1330220789_2_32x32.jpg
+0 3 0 3713 0 0
+# End Of Table - urls
+# -sites- (monthly)
+208.115.113.84
+0 4 4 12795 2 1433371922
+/fotos/potsdamer-strasse-10783-berlin
+p54bd1b0c.dip0.t-ipconnect.de
+0 9 8 21864 1 1433343588
+/assets/cache/
+ip5b418734.dynamic.kabel-deutschland.de
+0 25 25 205239 1 1433254044
+/kontakt
+http-v.fe.bosch.de
+0 9 9 21952 1 1433406532
+/impressum
+104.197.100.216
+0 1 1 13081 1 1433435329
+/
+69.171.230.115
+0 1 0 1175 0 0
+-
+36.251.87.240
+0 74 0 86030 1 1433363002
+-
+177-128-124-3.simconecte.com.br
+0 7 7 19429 1 1433291541
+/
+msnbot-157-55-39-223.search.msn.com
+0 3 2 4049 1 1433167771
+/impressum
+104.197.101.118
+0 1 1 13081 1 1433348937
+/
+static.83.71.76.144.clients.your-server.de
+0 5 5 33232 2 1433221566
+/impressum
+83.233.207.74
+0 4 4 52324 1 1433237012
+/
+dslb-088-074-029-199.088.074.pools.vodafone-ip.de
+0 26 26 187838 1 1433285530
+/
+msnbot-157-55-39-122.search.msn.com
+0 1 1 2809 1 1433183066
+/objekt/sophie-charlotten-strasse-14059-berlin
+130.185.104.81
+0 2 2 3981 0 0
+-
+p578f2051.dip0.t-ipconnect.de
+0 6 6 20123 2 1433265095
+/ueber-uns
+p5ddb8442.dip0.t-ipconnect.de
+0 20 20 54804 10 1433444733
+/objekte/entwicklung
+msnbot-157-55-39-119.search.msn.com
+0 2 1 3550 2 1433439124
+/
+pd4b88d3c.dip0.t-ipconnect.de
+0 30 30 219108 1 1433332511
+/kontakt
+cable-37-120-85-42.cust.telecolumbus.net
+0 12 12 40022 1 1433176457
+/dvi
+69.171.230.119
+0 1 0 1175 0 0
+-
+107.170.15.95
+0 39 38 81690 1 1433332510
+/fotos/sophie-charlotten-strasse-14059-berlin
+p50998971.dip0.t-ipconnect.de
+0 1189 768 722568 1 1433180505
+/webmail/
+89.204.154.181
+0 1 1 3001 1 1433441012
+/
+104.197.96.163
+0 1 1 13081 1 1433262525
+/
+h-62.96.245.2.host.de.colt.net
+0 8 7 21011 1 1433166422
+/kontakt
+62.214.65.90
+0 30 30 217835 1 1433435019
+/ueber-uns
+91.217.90.38
+0 1 0 236 1 1433289002
+/
+199.19.249.196
+0 5 5 39207 3 1433406499
+/impressum
+p5ddc07bd.dip0.t-ipconnect.de
+0 37 34 264097 1 1433161653
+/webmail/
+static.210.112.40.188.clients.your-server.de
+0 1 1 4354 1 1433424642
+/impressum
+208-115-111-68-reverse.wowrack.com
+0 2 2 13382 1 1433161233
+/
+crawl-192-99-107-60.meanpathbot.com
+0 2 0 482 1 1433182623
+/
+crawl-66-249-64-251.googlebot.com
+0 2 2 6002 2 1433339907
+/
+hosted-by.leaseweb.com
+0 2 1 3237 1 1433165062
+/
+8.28.16.254
+0 4 4 27519 1 1433254999
+/ueber-uns
+pha01.pro.s-web.de
+0 39 39 319864 2 1433258603
+/dvi
+p5dc5748b.dip0.t-ipconnect.de
+0 3 3 7545 3 1433406788
+/ueber-uns
+ns502455.ip-142-4-209.net
+0 5 5 10982 1 1433148188
+/objekte/gewerbe
+150-70-173-42.trendmicro.com
+0 1 1 13081 1 1433250403
+/
+150-70-173-45.trendmicro.com
+0 1 1 4186 1 1433322942
+/dvi
+64.79.100.16.webcrawler.link
+0 24 21 50932 1 1433447715
+/
+crawl-66-249-69-56.googlebot.com
+0 1 1 3001 1 1433446671
+/
+130.185.104.121
+0 2 2 3302 1 1433439915
+/
+x5ce5a426.dyn.telefonica.de
+0 1 1 1683 1 1433381993
+/impressum
+crawl11.exabot.com
+0 4 4 6362 2 1433309154
+/
+89.204.135.47
+0 9 9 24459 1 1433255057
+/ueber-uns
+crawl-66-249-78-93.googlebot.com
+0 2 2 3181 1 1433134789
+/
+p5480a784.dip0.t-ipconnect.de
+0 9 9 19756 5 1433396465
+/ueber-uns
+orbit002.ahrefs.com
+0 2 2 4426 2 1433423667
+/fotos/hauptstrasse-10827-berlin
+ns306331.ip-94-23-221.eu
+0 1 1 3001 1 1433223434
+/
+mucipx03.unicreditgroup.eu
+0 1 0 0 0 0
+-
+p5b171b7f.dip0.t-ipconnect.de
+0 8 8 19925 1 1433283261
+/
+mail.zech-ruth.de
+0 20 20 142146 1 1433257794
+/objekte/entwicklung
+m3124.contabo.host
+0 1 1 13081 1 1433359074
+/
+207.90.2.9
+0 2 2 26162 2 1433287479
+/
+87.104.197.103
+0 10 6 19516 2 1433408956
+/
+crawl-66-249-64-133.googlebot.com
+0 5 5 6481 2 1433226746
+/objekt/luetzelsteiner-weg-14195-berlin
+crawl-66-249-64-82.googlebot.com
+0 1 0 246 0 0
+-
+crawl-66-249-78-86.googlebot.com
+0 2 2 653 0 0
+-
+x55b5fbfc.dyn.telefonica.de
+0 19 19 238807 1 1433356363
+/objekte/gewerbe
+p54be9e98.dip0.t-ipconnect.de
+0 37 36 294784 1 1433421247
+/dvi
+static.215.5.243.136.clients.your-server.de
+0 5 5 10983 1 1433327396
+/objekte/gewerbe
+p4fe22687.dip0.t-ipconnect.de
+0 5 5 17611 1 1433279782
+/ueber-uns
+crawl-66-249-64-139.googlebot.com
+0 1 1 180 0 0
+-
+crawl-66-249-64-108.googlebot.com
+0 2 0 482 1 1433259076
+/
+f052142165.adsl.alicedsl.de
+0 11 11 171778 1 1433174341
+/objekt/karl-marx-strasse-12043-berlin
+ip5b409b85.dynamic.kabel-deutschland.de
+0 48 48 367585 3 1433435483
+/dvi
+pd95c9e0e.dip0.t-ipconnect.de
+0 2 2 6002 1 1433257577
+/
+gw2.zoominfo.com
+0 2 0 0 1 1433325542
+/
+crawl-66-249-64-87.googlebot.com
+0 2 0 472 2 1433275551
+/
+msnbot-207-46-13-56.search.msn.com
+0 2 2 2816 1 1433241620
+/ueber-uns
+5.8.47.24
+0 1 1 3001 1 1433324407
+/
+197.218.68.44
+0 7 7 19429 1 1433342235
+/
+mail2.ideal-versicherung.de
+0 20 20 179452 1 1433344440
+/dvi
+x4d0c439c.dyn.telefonica.de
+0 9 9 148611 1 1433424770
+/objekt/berliner-strasse-13507-berlin
+104.197.100.158
+0 1 1 13081 1 1433176127
+/
+ip5f5ae978.dynamic.kabel-deutschland.de
+0 30 30 202988 2 1433170163
+/kontakt
+t11.anthos.nl
+0 26 26 181052 1 1433249130
+/dvi
+dslb-088-076-195-093.088.076.pools.vodafone-ip.de
+0 11 11 47936 1 1433199893
+/impressum
+ip5f5ae922.dynamic.kabel-deutschland.de
+0 4 4 38074 1 1433342421
+/kontakt
+prxbc01.commerzbank.com
+0 13 13 31675 1 1433326121
+/impressum
+p5dc560e6.dip0.t-ipconnect.de
+0 17 15 133053 1 1433170836
+/
+150-70-173-46.trendmicro.com
+0 1 1 4186 1 1433435544
+/dvi
+p5b2ec9e9.dip0.t-ipconnect.de
+0 11 11 126858 1 1433253200
+/objekt/turmstrasse-10555-berlin
+189-78-54-36.dsl.telesp.net.br
+0 7 7 19429 1 1433299341
+/
+ip5b4130ad.dynamic.kabel-deutschland.de
+0 28 28 334623 1 1433378020
+/objekt/berliner-strasse-13507-berlin
+hsi-kbw-46-237-204-169.hsi.kabel-badenwuerttemberg.de
+0 20 20 5220631 1 1433252967
+/fotos/strasse-43-13125-berlin
+89.202.152.90
+0 89 88 2586662 1 1433354307
+/fotos/berliner-strasse-13507-berlin
+proxy54-mch-ext.sbs.de
+0 17 17 123381 1 1433250738
+/objekte/wohnen
+202.4.112.12
+0 7 7 19428 1 1433226092
+/
+msnbot-157-55-39-64.search.msn.com
+0 3 3 5022 2 1433347258
+/kontakt
+crawl-66-249-64-124.googlebot.com
+0 1 1 3001 1 1433275551
+/
+p54af4f39.dip0.t-ipconnect.de
+0 15 15 100294 1 1433446612
+/kontakt
+p4fc169e1.dip0.t-ipconnect.de
+0 2 1 3333 2 1433290511
+/
+b110068.yse.yahoo.net
+0 4 3 8100 3 1433167521
+/objekte/entwicklung
+crawl-192-99-107-57.meanpathbot.com
+0 2 2 3181 1 1433182623
+/
+x5f77328e.dyn.telefonica.de
+0 9 9 23628 1 1433242055
+/
+p4fc243f0.dip0.t-ipconnect.de
+0 16 16 185164 1 1433355384
+/objekt/koloniestrasse-13357-berlin
+x5ce546ac.dyn.telefonica.de
+0 59 58 1260540 1 1433236516
+/dvi
+b004.nbg.ncdn.de
+0 3 2 26398 2 1433408226
+/
+ip-202-147-34-162.asianetcom.net
+0 1 0 1175 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+http-v.fe.bosch.de
+0 9 9 21952 1 1433406532
+/impressum
+104.197.100.216
+0 1 1 13081 1 1433435329
+/
+130.185.104.81
+0 2 2 3981 0 0
+-
+p5ddb8442.dip0.t-ipconnect.de
+0 20 20 54804 10 1433444733
+/objekte/entwicklung
+msnbot-157-55-39-119.search.msn.com
+0 2 1 3550 2 1433439124
+/
+89.204.154.181
+0 1 1 3001 1 1433441012
+/
+62.214.65.90
+0 30 30 217835 1 1433435019
+/ueber-uns
+199.19.249.196
+0 1 1 4354 1 1433406499
+/impressum
+static.210.112.40.188.clients.your-server.de
+0 1 1 4354 1 1433424642
+/impressum
+p5dc5748b.dip0.t-ipconnect.de
+0 1 1 2515 1 1433406788
+/ueber-uns
+64.79.100.16.webcrawler.link
+0 24 21 50932 1 1433447715
+/
+crawl-66-249-69-56.googlebot.com
+0 1 1 3001 1 1433446671
+/
+130.185.104.121
+0 2 2 3302 1 1433439915
+/
+x5ce5a426.dyn.telefonica.de
+0 1 1 1683 1 1433381993
+/impressum
+crawl-66-249-78-93.googlebot.com
+0 1 1 180 0 0
+-
+p5480a784.dip0.t-ipconnect.de
+0 8 8 19283 5 1433396465
+/ueber-uns
+orbit002.ahrefs.com
+0 2 2 4426 2 1433423667
+/fotos/hauptstrasse-10827-berlin
+87.104.197.103
+0 5 3 9758 1 1433408956
+/
+crawl-66-249-78-86.googlebot.com
+0 1 1 473 0 0
+-
+p54be9e98.dip0.t-ipconnect.de
+0 37 36 294784 1 1433421247
+/dvi
+ip5b409b85.dynamic.kabel-deutschland.de
+0 1 1 1742 1 1433435483
+/dvi
+x4d0c439c.dyn.telefonica.de
+0 9 9 148611 1 1433424770
+/objekt/berliner-strasse-13507-berlin
+150-70-173-46.trendmicro.com
+0 1 1 4186 1 1433435544
+/dvi
+ip5b4130ad.dynamic.kabel-deutschland.de
+0 28 28 334623 1 1433378020
+/objekt/berliner-strasse-13507-berlin
+p54af4f39.dip0.t-ipconnect.de
+0 15 15 100294 1 1433446612
+/kontakt
+b004.nbg.ncdn.de
+0 1 1 13081 1 1433408226
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://mamrudsmuskovics.com/fotos/falkenberg-13057-berlin
+1 2
+http://mamrudsmuskovics.com/objekt/koloniestrasse-13357-berlin
+1 16
+http://mamrudsmuskovics.com/webmail/skins/default/mail.css
+1 4
+http://mamrudsmuskovics.com/dvi
+1 44
+http://mamrudsmuskovics.com/webmail/skins/default/common.css
+1 8
+http://mamrudsmuskovics.com/objekt/hauptstrasse-10827-berlin
+1 7
+http://www.mamrudsmuskovics.com
+1 2
+http://mamrudsmuskovics.com/objekt/kanalstrasse-12357-berlin
+1 1
+http://mamrudsmuskovics.com/webmail/plugins/jqueryui/themes/default/jquery-ui-1.8.14.custom.css
+1 1
+http://mamrudsmuskovics.com/assets/cache/1330221148_1_790x500.jpg
+1 1
+http://mamrudsmuskovics.com/fotos/berliner-strasse-13507-berlin
+1 7
+http://mamrudsmuskovics.com/webmail/plugins/template_objects/skins/default/template_objects.css
+1 2
+http://mamrudsmuskovics.com/objekt/friedrichsfelde-10315-berlin
+1 1
+http://mamrudsmuskovics.com/ueber-uns
+1 46
+http://mamrudsmuskovics.com/objekt/potsdamer-strasse-10783-berlin
+1 1
+http://mamrudsmuskovics.com/webcontrol-scripts/showmail.pl
+1 7
+http://mamrudsmuskovics.com/objekt/curtiusstrasse-12205-berlin
+1 1
+http://mamrudsmuskovics.com/objekt/falkenberg-13057-berlin
+1 10
+- (Direct Request)
+0 284
+http://mamrudsmuskovics.com/kontakt
+1 7
+http://www.google.de/url
+0 21
+http://www.mamrudsmuskovics.com/
+1 1
+http://www.bing.com/search
+0 1
+http://mamrudsmuskovics.com/webmail/plugins/forwardattachment/skins/default/forwardattachment.css
+1 2
+https://www.google.de/
+0 7
+http://mamrudsmuskovics.com/webmail/plugins/contextmenu/skins/default/contextmenu.css
+1 3
+http://mamrudsmuskovics.com/webmail/
+1 1186
+http://buttons-for-your-website.com
+0 2
+http://mamrudsmuskovics.com/objekt/turmstrasse-10555-berlin
+1 23
+http://mamrudsmuskovics.com/objekte/wohnen
+1 62
+http://mamrudsmuskovics.com/objekt/stendaler-strasse-12627-berlin
+1 1
+http://mamrudsmuskovics.com/objekt/luetzelsteiner-weg-14195-berlin
+1 10
+http://www.google.de/imgres
+0 2
+http://mamrudsmuskovics.com/objekte/entwicklung
+1 16
+http://mamrudsmuskovics.com/objekt/berliner-strasse-13507-berlin
+1 20
+http://mamrudsmuskovics.com/objekt/karl-marx-strasse-12043-berlin
+1 17
+http://mamrudsmuskovics.com/
+1 316
+http://mamrudsmuskovics.com/impressum
+1 31
+http://best-seo-offer.com/try.php
+0 2
+http://mamrudsmuskovics.com/objekt/strasse-43-13125-berlin
+1 11
+http://mamrudsmuskovics.com/objekte/gewerbe
+1 47
+http://mamrudsmuskovics.com/assets/cache/20130122233232.css
+1 39
+http://www.mamrudsmuskovics.com/robots.txt
+1 2
+http://mamrudsmuskovics.com/fotos/strasse-43-13125-berlin
+1 5
+http://mamrudsmuskovics.com/objekt/sophie-charlotten-strasse-14059-berlin
+1 1
+http://mamrudsmuskovics.com/fonds
+1 10
+http://mamrudsmuskovics.de/
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+0 13
+PagesInventory (robot http://www.pagesinventory.com)
+0 3
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+0 18
+Mozilla/5.0 (compatible; meanpathbot/1.0; +http://www.meanpath.com/meanpathbot.html)
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safar
+0 2
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+0 38
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS31753; OfficeLiveConnector.1.5; OfficeLivePatch.1.3; .NET
+0 26
+Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)
+0 6
+Microsoft Office Protocol Discovery
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+0 14
+Mozilla/4.0 (CMS Crawler: http://www.cmscrawler.com)
+0 4
+Mozilla/5.0 (compatible; PageAnalyzer/1.5;)
+0 4
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152
+0 39
+Mozilla/5.0 (Linux; U; Android 4.1.2; de-de; ME371MG Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/
+0 11
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; (gmx/1.4.0.0); rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:21.0) Gecko/20100101 Firefox/21.0
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari
+0 11
+Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20100101 Firefox/19.0
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:38.0) Gecko/20100101 Firefox/38.0
+0 20
+Mozilla/5.0 (Windows NT 6.1; rv:19.0) Gecko/20100101 Firefox/19.0
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 18
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 11
+Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG GT-I9505 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 C
+0 12
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0
+0 30
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Sa
+0 18
+Mozilla/5.0 (Linux; Android 4.4.2; LG-D802 Build/KOT49I.D80220b) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.78 M
+0 11
+Mozilla/4.0 (compatible;)
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+0 3
+Mozilla/5.0 (iPad; CPU OS 8_1_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B435 Safari/600.1
+0 28
+NextGenSearchBot 1 (for information visit http://www.zoominfo.com/About/misc/NextGenSearchBot.aspx)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safa
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 37
+Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/go/robot)
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0
+0 1337
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.3072
+0 13
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+0 113
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36
+0 60
+Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)
+0 10
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.169 Safari/537.22
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Sa
+0 5
+Mozilla/5.0 (Windows; U; Windows NT 6.0; de; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729)
+0 31
+Mozilla/5.0 (compatible; AhrefsBot/5.0; +http://ahrefs.com/robot/)
+0 2
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.6.3 (KHTML, like Gecko) Version/8.0.6 Safari/600.6.3
+0 4
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B329 Safa
+0 9
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:38.0) Gecko/20100101 Firefox/38.0
+0 34
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/7.1.2 Safari/537.85.11
+0 2
+Mozilla/5.0 (compatible; spbot/4.4.2; +http://OpenLinkProfiler.org/bot )
+0 39
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Win64; x64; Trident/6.0)
+0 3
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 9
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+0 1
+facebookexternalhit/1.0 (+http://www.facebook.com/externalhit_uatext.php)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+0 14
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25
+0 9
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+0 36
+=Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.204 Safari/534.16
+0 2
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; zh-cn) AppleWebKit/533.18.1 (KHTML, like Gecko) Version/5.0.2 Safari/533.18
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; (gmx/1.4.0.0); rv:11.0) like Gecko
+0 5
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; (gmx/1.4.0.0; ms-office; MSOffice 
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/6.1.6 Safari/537.78.2
+0 16
+NerdyBot
+0 4
+PagesInventory (robot +http://www.pagesinventory.com)
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; MS-RTC LM 8; .NET CLR 3
+0 9
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) )
+0 1
+Java/1.7.0_09
+0 11
+com.apple.WebKit.WebContent/10600.6.3 CFNetwork/720.3.13 Darwin/14.3.0 (x86_64)
+0 4
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0
+0 25
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+mamrudsmuskovics
+0 7 7 9124 1 0
+# End Of Table - usernames

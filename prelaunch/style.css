@@ -1,0 +1,61 @@
+
+body {
+  background:#666;
+  color:#eee;
+  font-family:'Abel', sans-serif;
+  font-size:1.1em;
+  line-height:1.4;
+  margin:0;
+  padding:0;
+}
+
+address {
+  font-style:normal;
+}
+
+.vcard {
+  background:#000;
+  color:#868889;
+  padding:100px;
+}
+
+.vcard .org {
+  background:url('ms_01.png') no-repeat 0 0;
+  height:18px;
+  margin:0 0 30px;
+  overflow:hidden;
+  text-indent:-999em;
+  white-space:nowrap;
+  width:400px;
+}
+
+.vcard address {
+  margin:0 0 1.4em;
+}
+.vcard .street-address {
+  display:block;
+}
+
+.vcard .tel {
+  display:block;
+}
+.vcard .tel .type {
+  display:none;
+}
+
+.vcard .email {
+  color:#868889;
+  display:block;
+  margin:1.4em 0 0;
+  text-decoration:none;
+}
+
+p#text {
+  color:#000;
+  font-size:10em;
+  letter-spacing:-0.02em;
+  line-height:1.0;
+  margin:100px 0 100px 100px;
+  text-transform:uppercase;
+  word-wrap:break-word;
+}

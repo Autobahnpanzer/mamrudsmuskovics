@@ -1,0 +1,190 @@
+/**************************************************************************
+
+ Page CSS
+---------------------------------------------------------------
+
+ ZUKD
+ Zepter und Krone GmbH
+ Digital Unit
+
+ V/2015
+
+***************************************************************************/
+
+/*#ms-home-profiles*/
+
+#ms-home-profiles .tel .key {
+  display: inline-block;
+  width: 45px;
+}
+
+#ms-home-profiles .tel .value {
+  letter-spacing: 0.05em;
+}
+
+#ms-home-profiles #main .tel .email {
+  margin-top: 1em;
+}
+
+#ms-home-profiles #main .tel .tel-desc,
+#ms-home-profiles #main .tel .tel-mobile,
+#ms-home-profiles #main .tel .telefax,
+#ms-home-profiles #main .tel .email,
+#ms-home-profiles #main .vcard .fn,
+#ms-home-profiles #main .vcard .category {
+  display: block;
+}
+
+#ms-home-profiles #main .vcard .fn {
+  margin-bottom: 1em;
+}
+
+#ms-home-profiles #main .vcard .category {
+  font-family: 'Avenir LT W02 95 Black', sans-serif;
+  font-size: 1.1em;
+  letter-spacing: 0.0025em;
+  margin-bottom: 2.5em;
+}
+
+@media only screen and (min-width: 671px) {
+  #ms-home-profiles .tel {
+    display: inline;
+    float: left;
+    width: 230px;
+  }
+}
+
+/*
+ * home-about
+ *
+ */
+
+#ms-home-about {}
+
+#ms-home-about #group_01 {
+  display: block;
+}
+
+#ms-home-about .boxed .caption {
+  color: #fff;
+  font-size: 24px;
+  font-family: 'Avenir LT W02 35 Light', sans-serif;
+  line-height: 32px;
+  margin-top: 48px;
+}
+
+#ms-home-about #cv {
+  padding-bottom: 40px;
+}
+
+#ms-home-about #cv img {
+  display: block;
+}
+
+#ms-home-about #cv h3 {
+  color: #fff;
+  font-size: 12px;
+  line-height: 16px;
+  margin: 16px 0 9px;
+}
+
+#ms-home-about #cv blockquote {
+  border-top: 1px solid #818182;
+  height: 424px;
+  overflow: auto;
+  padding-top: 6px;
+}
+
+#ms-home-about #cv blockquote p {
+  font-size: 12px;
+  line-height: 16px;
+}
+
+/*
+ * home-index
+ *
+ */
+
+#ms-home-index #main {}
+
+#ms-home-index #main p.intro {
+  color: #777;
+  font-size: 26px;
+  line-height: 36px;
+  padding-top: 46px;
+}
+
+#ms-home-index #main p.intro a.more {
+  padding: 0 5px;
+}
+
+@media only screen and (max-width: 670px) {
+  #ms-home-index #main p.intro {
+    font-size: 20px;
+    line-height: 1.5em;
+    padding-top: 25px;
+  }
+
+
+/*
+ * properties-show
+ *
+ */
+
+  #ms-properties-show #main a.photo,
+  #ms-properties-show #main a.photo img {
+    display: block;
+  }
+  #ms-properties-show #main .thumbnails {
+    background: #f8f8f8;
+    padding: 2em 1em 1em;
+  }
+  #ms-properties-show #main .thumbnails li {
+    display: inline-block;
+    margin: 0 3px 0 0;
+  }
+  #ms-properties-show #main .thumbnails a {
+    border: 2px solid #818182;
+    display: block;
+  }
+  #ms-properties-show #main .thumbnails li:first-child a {
+    border-color: #fff;
+  }
+  #ms-properties-show #main .thumbnails img {
+    display: block;
+  }
+  #ms-properties-show .boxed a.btn {}
+  #ms-properties-show table.data {
+    margin-top: 32px;
+  }
+  #ms-properties-show table.data th {}
+  #ms-properties-show #main .abstract {}
+  #ms-properties-show #main .abstract p {
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 24px;
+  }
+  #ms-properties-show #map_canvas {
+    margin: 48px 0 24px;
+  }
+  @media only screen and (max-width: 670px) {
+    #ms-properties-show #map_canvas {
+      width: 96% !important;
+    }
+  }
+  @media only screen and (min-width: 671px) {
+    #ms-properties-show #main .thumbnails {
+      background: rgba(0, 0, 0, 0.2);
+      height: 72px;
+      margin: -84px 0 0 0;
+      padding: 12px 40px 0 40px;
+      position: absolute;
+      width: 590px;
+    }
+  }
+  @media only screen and (max-width: 670px) {
+    #ms-properties-show #main .view-options {
+      margin: 3em 0 2em;
+      padding-right: 1em;
+    }
+  }

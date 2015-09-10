@@ -1,0 +1,20 @@
+User-Agent: *
+Sitemap: sitemap.xml
+
+# disallow these files and directories
+Disallow: /*.js$
+Disallow: /*.css$
+Disallow: /*.pdf$
+
+# disallow query strings
+Disallow: /*?*
+
+# no archiving
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: duggmirror
+Disallow: /
+
+User-agent: Mediapartners-Google*
+Disallow:
