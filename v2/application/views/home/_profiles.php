@@ -16,26 +16,31 @@
         <span class="category">Ansprechpartner</span>
         <span class="fn">Eytan Halfin</span>
 
-        <p class="tel _margin-bottom">
+        <p class="tel-container _margin-bottom">
 
-          <span class="tel-desc">
-            <span class="key">Telefon</span> <span class="value">+49</span> <span class="value">30</span> <span class="value">30887182</span>-<span class="value">18</span>
+          <span class="tel">
+            <span class="type">work</span>
+            <span class="tel-type">Telefon</span> <span class="value">+49</span> <span class="value">30</span> <span class="value">30887182</span>-<span class="value">18</span>
           </span>
 
-          <span class="telefax">
-            <span class="key">Telefax</span> <span class="value">+49</span> <span class="value">30</span> <span class="value">30887182</span>-<span class="value">25</span>
+          <span class="tel">
+            <span class="type">fax</span>
+            <span class="tel-type">Telefax</span> <span class="value">+49</span> <span class="value">30</span> <span class="value">30887182</span>-<span class="value">25</span>
           </span>
 
-          <span class="tel-mobile">
-            <span class="key">Mobil</span> <span class="value">+49</span> <span class="value">170</span> <span class="value">8300029</span>
+          <span class="tel">
+            <span class="type">cell</span>
+            <span class="tel-type">Mobil</span> <span class="value">+49</span> <span class="value">170</span> <span class="value">8300029</span>
           </span>
+          <a href="mailto:eh@dvi.de" class="email">eh@dvi.de</a>
 
-          <span class="email">
-            <?=mailto('eh@dvi.de');?>
-          </span>
         </p>
 
-        <span class="adress clearfix">DVI Gruppe<br />Am Borsigturm 53<br />13507 Berlin</span>
+        <span class="adr clearfix">
+          <span class="org">DVI Gruppe</span>
+          <span class="street-address">Am Borsigturm 53</span>
+          <span class="postal-code">13507</span><span class="locality">Berlin</span>
+        </span>
 
       </div>
 
@@ -43,3 +48,4 @@
 
   </section>
 </div>
+

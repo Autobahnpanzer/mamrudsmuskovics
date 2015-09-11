@@ -3,7 +3,7 @@
     <div id="footer_wrapper" class="clearfix">
 
       <div class="vcard alpha">
-        <h3 class="fn org"><abbr title="Deutsche Vermögens- und Immobilienverwaltung">DVI</abbr> Gruppe</h3>
+        <h3 class="fn org">DVI Gruppe</h3>
         <span class="tel">
           Telefon
           <span class="type accessible">work</span>

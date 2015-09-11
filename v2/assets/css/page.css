@@ -13,7 +13,17 @@
 
 /*#ms-home-profiles*/
 
-#ms-home-profiles .tel .key {
+#ms-home-profiles #main .vcard {
+  font-size: 1em;
+}
+
+#ms-home-profiles #main .vcard .category,
+#ms-home-profiles #main .vcard .email,
+#ms-home-profiles #main .vcard .adr,
+#ms-home-profiles #main .vcard .fn{
+  display: block;
+}
+#ms-home-profiles #main .vcard .tel-type {
   display: inline-block;
   width: 45px;
 }
@@ -22,21 +32,14 @@
   letter-spacing: 0.05em;
 }
 
-#ms-home-profiles #main .tel .email {
+#ms-home-profiles #main .tel-container .email {
   margin-top: 1em;
 }
 
-#ms-home-profiles #main .tel .tel-desc,
-#ms-home-profiles #main .tel .tel-mobile,
-#ms-home-profiles #main .tel .telefax,
-#ms-home-profiles #main .tel .email,
-#ms-home-profiles #main .vcard .fn,
-#ms-home-profiles #main .vcard .category {
 
-  display: block;
-}
 
 #ms-home-profiles #main .vcard .fn {
+
   margin-bottom: 1em;
 }
 
@@ -47,8 +50,9 @@
   margin-bottom: 2.5em;
 }
 
+
 @media only screen and (min-width: 671px) {
-  #ms-home-profiles .tel {
+  #ms-home-profiles .tel-container {
     display: inline;
     float: left;
     width: 230px;
