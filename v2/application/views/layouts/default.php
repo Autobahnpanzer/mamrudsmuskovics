@@ -24,7 +24,6 @@
 <?= Assets::css(array(
             'reset.css',
             'default.css',
-            //'grid.css',
             'layout_default.css',
             'layout_album.css',
             'page.css'

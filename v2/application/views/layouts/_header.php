@@ -1,4 +1,4 @@
-<header class="large-5">
+<header>
 
   <h1><?=anchor(base_url(),'DVI Gruppe');?></h1>
 
