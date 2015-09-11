@@ -7,7 +7,6 @@
  IX/2015
 
 ***************************************************************************/
-
 /*
  * header
  *
@@ -100,14 +99,15 @@
   top: 8px;
 }
 
-@media only screen and (max-width: 64.062em) {
+@media only screen and (max-width: 1020px) {
   .default-layout header h1 {
     margin-right: 2px;
     text-align: right;
   }
   .default-layout header h1 a {
-    color: rgba(0, 0, 0, 0);
     display: inline-block;
+    font-size: 0.3em;
+    text-indent: 999em;
   }
   .default-layout header nav {
     margin-left: 0;
@@ -194,7 +194,7 @@
   }
 }
 
-@media only screen and (min-width: 671px) and (max-width: 64.062em) {
+@media only screen and (min-width: 671px) and (max-width: 1020px) {
   .default-layout header {
     padding: 40px 0 30px 40px;
     width: 630px;
@@ -214,7 +214,7 @@
   }
 }
 
-@media only screen and (min-width: 64.063em) {
+@media only screen and (min-width: 1021px) {
   .default-layout header {
     padding: 53px 20px 20px 82px;
     position: fixed;
@@ -271,7 +271,7 @@
   font-size: 20px;
 }
 
-@media only screen and (max-width: 28.062em) {
+@media only screen and (max-width: 670px) {
   .default-layout #main p.txt {
     font-size: 15px;
   }
@@ -293,7 +293,7 @@
   }
 }
 
-@media only screen and (min-width: 64.063em) {
+@media only screen and (min-width: 1021px) {
   #main {
     margin-left: 280px;
   }
@@ -349,5 +349,11 @@
   }
   .default-layout footer #footer_wrapper {
     padding-left: 40px;
+  }
+}
+
+@media only screen and (min-width: 1020px) {
+  .default-layout footer {
+    margin-left: 280px;
   }
 }

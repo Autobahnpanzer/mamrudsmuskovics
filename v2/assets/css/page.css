@@ -32,6 +32,7 @@
 #ms-home-profiles #main .tel .email,
 #ms-home-profiles #main .vcard .fn,
 #ms-home-profiles #main .vcard .category {
+
   display: block;
 }
 
@@ -125,7 +126,7 @@
     padding-top: 25px;
   }
 
-
+}
 /*
  * properties-show
  *
